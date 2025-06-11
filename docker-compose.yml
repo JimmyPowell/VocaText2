@@ -1,0 +1,8 @@
+services:
+  vocatext:
+    build: .
+    ports:
+      - "8001:8000"
+    env_file:
+      - .env
+    restart: unless-stopped
