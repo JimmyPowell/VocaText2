@@ -37,7 +37,7 @@ VocaText 是一个现代化的、容器化的音视频转录Web应用。它利�
 
 1.  **克隆项目**
     ```bash
-    git clone <your-repository-url>
+    git clone https://github.com/JimmyPowell/VocaText2.git
     cd VocaText
     ```
 
